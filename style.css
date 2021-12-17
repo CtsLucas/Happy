@@ -4,7 +4,7 @@ body {
 .titulo,
 .nome {
   font-family: 'Corinthia', cursive;
-  font-size: 30pt;
+  font-size: 26pt;
   font-weight: 700;
 }
 
@@ -14,13 +14,13 @@ body {
 }
 
 .conteudo {
-  width: 95vh;
+  width: 50vh;
   background-color: rgba(195, 129, 233, 0.7);
   border-radius: 20px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 5vh;
+  padding: 10vh;
 }
 
 .container {
