@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+}
+.titulo,
+.nome {
+  font-family: 'Corinthia', cursive;
+  font-size: 26pt;
+  font-weight: 700;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.conteudo {
+  width: 50vh;
+  background-color: rgba(195, 129, 233, 0.7);
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10vh;
+}
+
+.container {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.titulo {
+  display: flex;
+  width: 60vh;
+  background-color: rgb(32, 6, 34);
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: aliceblue;
+  border: 2px solid aliceblue;
+}
+
+.nome,
+strong,
+s,
+span {
+  color: aliceblue;
+}
+
+.first {
+  margin-top: 0;
+}
+
+.nome {
+  margin: 30px 0 0 25px;
+}
+
+span {
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+a {
+  color: rgb(32, 6, 34);
+  text-decoration: none;
+  font-weight: 900;
+}
